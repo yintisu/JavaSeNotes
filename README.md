@@ -1,0 +1,2 @@
+# JavaSeNotes
+Notes about JavaSe
